@@ -2,7 +2,7 @@
 
 **Instructor: Mohammad Soltaniehha**
 
-This repository holds the code and notebooks for the Python portion of the MSBA bootcamp: a four-day, hands-on introduction to programming for incoming business analytics students. No prior coding experience is assumed. By the end of Day 4 you will have written scripts, built functions and classes, handled errors, and solved the most famous interview question in programming.
+This repository holds the code and notebooks for the Python portion of the MSBA bootcamp: a four-day, hands-on introduction to programming for incoming business analytics students. No prior coding experience is assumed. By the end of Day 4 you will have written scripts, built functions and classes, and handled errors.
 
 ## How the Course Works
 
