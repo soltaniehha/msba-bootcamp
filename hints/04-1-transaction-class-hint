@@ -1,0 +1,5 @@
+Uncomment the skeleton and replace each pass with real code.
+In __init__, assign all four parameters to attributes on self.
+total_with_tax takes tax_rate with a default of 0.0 and returns self.amount * (1 + tax_rate).
+Wrap that result in round(..., 2) so money has two decimals.
+to_dict returns a dict literal whose values come from the self attributes.

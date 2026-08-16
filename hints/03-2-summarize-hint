@@ -1,0 +1,5 @@
+Define the function with def summarize(numbers):.
+Add up the values with a for loop and a total variable that starts at 0.
+count comes from len(numbers), and mean is total divided by count.
+Round the mean with round(mean, 2), and check count first so an empty list does not divide by zero.
+Return all three values separated by commas: return count, total, mean.

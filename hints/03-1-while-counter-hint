@@ -1,0 +1,5 @@
+Set count = 0 and limit = 5 before the loop.
+The while condition should keep the loop going as long as count is below limit.
+Inside the loop, increase count by 1 with count += 1.
+Print count after the loop finishes.
+Make sure the loop changes count, or it will never stop.

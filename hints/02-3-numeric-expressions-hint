@@ -1,0 +1,4 @@
+pre_tax is the monthly fee times months, minus the coupon.
+Apply tax by multiplying by (1 + tax_rate).
+Use round(value, 2) to round to cents.
+Print both values when you are done.

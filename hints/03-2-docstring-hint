@@ -1,0 +1,4 @@
+A docstring is a triple-quoted string placed on the first line inside the function body.
+Start with one sentence saying what the function does.
+Then describe the items parameter and what the function returns.
+After defining the function, help(dedup_preserve) will display your docstring.

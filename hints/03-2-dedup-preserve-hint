@@ -1,0 +1,4 @@
+Keep two collections: a list for the unique items in order, and a set of items seen so far.
+Loop over items and check whether each one is already in the seen set.
+If it is new, append it to the unique list and add it to the seen set.
+Return the unique list at the end; the set is only there for fast membership checks.

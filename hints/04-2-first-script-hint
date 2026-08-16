@@ -1,0 +1,5 @@
+Start the first cell with %%writefile daily_special.py on its own first line;
+everything below that line is saved into the file instead of running.
+Store the dish and price in variables and print them with an f-string.
+In the next cell, run the file with the magic function: %run daily_special.py
+(!python daily_special.py also works, and so does python daily_special.py in a real terminal.)

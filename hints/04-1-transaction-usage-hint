@@ -1,0 +1,5 @@
+Call the class like a function: Transaction(txn_id, date, amount, category) with your own values.
+Make two objects and store them in t1 and t2.
+Use dot notation to call methods: t1.total_with_tax(0.0625).
+Wrap each call in print() so the results show up.
+to_dict() takes no arguments, so t2.to_dict() is all you need.

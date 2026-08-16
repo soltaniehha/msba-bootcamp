@@ -1,0 +1,4 @@
+Get the player's choice with input() and compare it using == in an if/elif/else chain.
+Each branch is just a print() with a different outcome.
+For the bonus, put a second input() and an if/else inside one branch,
+indented one level deeper than the branch it lives in.

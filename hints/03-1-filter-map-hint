@@ -1,0 +1,5 @@
+Create two empty lists, filtered and with_tax, before the loop.
+Loop over prices with a single for loop.
+Use an if statement to append prices that are at least 20 to filtered.
+Append price * 1.0825 to with_tax for every price, rounded with round(value, 2).
+Print both lists after the loop.

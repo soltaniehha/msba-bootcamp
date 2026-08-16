@@ -1,0 +1,5 @@
+len(names) gives you the number of items in the list.
+range(len(names)) produces the indexes 0, 1, 2.
+Loop with: for i in range(len(names)):
+Inside the loop, print i and names[i] together.
+As an alternative, enumerate(names) gives you index and name pairs directly.

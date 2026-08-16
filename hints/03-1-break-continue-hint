@@ -1,0 +1,5 @@
+Loop over numbers and keep a running total.
+Use break when a number is negative, so the loop stops right away.
+Use continue when a number equals 0, so that item is skipped but the loop keeps going.
+Check the break case before the continue case.
+Add each remaining number to total and print it after the loop.

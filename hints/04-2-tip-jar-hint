@@ -1,0 +1,5 @@
+The file needs def add_tip(amount, tip_rate=0.18) returning round(amount * (1 + tip_rate), 2).
+Put the self-test print under if __name__ == "__main__": so it runs only
+when the file is executed directly, not when it is imported.
+!python tip_tools.py runs it as a script; from tip_tools import add_tip imports it quietly.
+If an import seems to ignore your latest edits, restart the kernel: Python caches imported modules.

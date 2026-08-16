@@ -1,0 +1,4 @@
+Use .append() to add the new day's value.
+min(), max(), and sum() work directly on lists; divide sum by len() for the average.
+Assign to daily_signups[2] to replace an item.
+A slice like [-3:] returns the last three items.

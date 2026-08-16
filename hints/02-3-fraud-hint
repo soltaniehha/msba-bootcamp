@@ -1,0 +1,4 @@
+Start with is_flagged = False, then use if/elif branches to set it to True.
+Combine conditions with and, for example amount > 1000 and destination_country != "US".
+Compare the two addresses with != to spot a mismatch.
+An inactive account can be checked with account_active is False.

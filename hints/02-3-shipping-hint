@@ -1,0 +1,4 @@
+Use if for the lowest bracket, elif for the middle, else for free shipping.
+Compare cart_total against 50 and 100.
+grand_total is cart_total plus shipping_cost.
+Round money values with round(value, 2) before printing.

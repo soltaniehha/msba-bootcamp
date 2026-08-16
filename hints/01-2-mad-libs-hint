@@ -1,0 +1,5 @@
+Store each input() answer in its own variable:
+    adjective = input("Give me an adjective: ")
+Then build the story with an f-string, dropping the variables in with curly braces:
+    print(f"The {adjective} {animal} loves to {verb} on weekends.")
+input() always returns text, which is exactly what you need here.

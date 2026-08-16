@@ -1,0 +1,5 @@
+Start with .strip() to remove the outer whitespace, then .title() for capitalization.
+Use .split() to break the cleaned name into first and last.
+Index with [0] to grab the first letter of each part.
+Convert the account id with str() and slice the last 3 characters with [-3:].
+Build the handle by joining the pieces with +.

@@ -1,0 +1,4 @@
+Use an if/elif/else chain on tier to pick a discount rate.
+Compare tier to each tier name with ==.
+discount_amount is purchase_total times the rate.
+Subtract the discount from the total for final_total.

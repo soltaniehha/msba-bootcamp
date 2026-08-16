@@ -1,0 +1,4 @@
+The while condition is already written: it stops at the end of the list or at the first None.
+Inside the loop, move forward by increasing i by 1.
+After the loop, i holds the position where the loop stopped.
+Print i to see the index where the sentinel (None) was found.

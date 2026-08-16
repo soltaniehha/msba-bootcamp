@@ -1,0 +1,4 @@
+Loop with for n in range(1, 21); remember range stops before the second number.
+n % 3 == 0 is True when n is a multiple of 3.
+Check the multiples-of-both case first (divisible by 15), or it will never be reached.
+Then use elif for the 3 case, elif for the 5 case, and else to print the number itself.

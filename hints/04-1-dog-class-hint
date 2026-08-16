@@ -1,0 +1,6 @@
+In __init__, store each parameter on self, for example self.name = name.
+Each method uses self to reach those attributes, like f"{self.name} says: Woof!".
+birthday() adds 1 to self.age before printing the message.
+dog_years() should return a value (age times 7), not print it.
+__str__ must return a string; build it with an f-string.
+For the stretch, a class variable is set once inside the class body, outside any method.

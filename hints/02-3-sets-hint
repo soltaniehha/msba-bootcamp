@@ -1,0 +1,4 @@
+Passing the list to set() removes duplicates.
+Use .add() to insert a new email.
+The in keyword checks membership.
+The & operator returns the intersection of two sets.

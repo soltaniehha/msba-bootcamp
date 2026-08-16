@@ -1,0 +1,5 @@
+Build the menu as a dictionary with snack names as keys and prices as values.
+Look up a price with square brackets, for example menu["popcorn"].
+Add the two lookups together and store the result in a total variable.
+An f-string like f"${total:.2f}" formats the price for the receipt line.
+For the coupon, use if total > 5 to subtract 1.00, with an else branch for the other case.

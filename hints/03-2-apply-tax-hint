@@ -1,0 +1,4 @@
+Define the function with a default parameter: def apply_tax(amount, rate=0.0625):.
+The total is amount times (1 + rate).
+Round the result to 2 decimal places with round().
+Return the rounded value, then test with apply_tax(100) and apply_tax(100, rate=0.095).

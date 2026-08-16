@@ -1,0 +1,5 @@
+Start with while True: so the question repeats until the input is valid.
+Inside the loop, put the int(input(...)) line in a try block.
+If the conversion works, break out of the loop right after it.
+Catch ValueError in the except block and print a short retry message.
+Print x after the loop, once you know it holds a valid integer.

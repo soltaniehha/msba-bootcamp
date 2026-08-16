@@ -1,0 +1,5 @@
+Define the function with def split_bill(total, people, tip_rate=0.20):.
+Add the tip by multiplying: total * (1 + tip_rate).
+Divide the tipped total by people to get each person's share.
+Return the share rounded with round(x, 2).
+For the bonus, an if statement at the top can return early when people is 0.

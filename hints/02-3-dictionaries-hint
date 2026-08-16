@@ -1,0 +1,4 @@
+Read a value with square brackets: member["level"].
+Add a new key by assigning to it: member["email"] = ...
+Use += to increase the credits value in place.
+Print the dictionary to see all changes.

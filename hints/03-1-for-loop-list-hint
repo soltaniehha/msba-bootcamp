@@ -1,0 +1,5 @@
+Start with total = 0 and high_count = 0 before the loop.
+Loop over the orders list with: for amount in orders:
+Inside the loop, add each amount to total.
+Use an if statement to check whether amount >= 100, and add 1 to high_count when it is.
+Print both variables after the loop ends.

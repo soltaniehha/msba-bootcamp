@@ -1,0 +1,4 @@
+Loop over the items together with their positions; enumerate(items) gives you both.
+Compare each value to target with ==.
+Return the index as soon as you find a match; return exits the function immediately.
+If the loop finishes without a match, return -1 after the loop.

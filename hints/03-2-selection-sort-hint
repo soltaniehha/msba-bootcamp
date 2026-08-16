@@ -1,0 +1,5 @@
+Use two nested for loops over index positions, both built with range.
+The outer loop tracks the current position i; start min_index at i.
+The inner loop scans from i + 1 to the end and updates min_index when it finds a smaller value.
+After the inner loop, swap: lst[i], lst[min_index] = lst[min_index], lst[i].
+The function sorts the list in place, so it does not need a return statement.

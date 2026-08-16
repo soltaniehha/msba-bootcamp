@@ -1,0 +1,4 @@
+Create an empty result list and a running variable that starts at 0.
+Loop over the numbers, adding each one to running.
+Append the current value of running to result inside the loop.
+Return result after the loop; each position holds the sum up to that point.

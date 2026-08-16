@@ -1,0 +1,4 @@
+Create four variables: a string, a float, an int, and a boolean.
+Use type() inside print() to show each variable's type.
+Multiply monthly_fee by active_users to get est_revenue.
+An f-string like f"{value:.2f}" formats money to two decimals.

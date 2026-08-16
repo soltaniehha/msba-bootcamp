@@ -1,0 +1,4 @@
+A list comprehension has the shape: [expression for item in list if condition].
+The condition keeps only prices that are at least 20.
+The expression applies the tax: round(price * 1.0825, 2).
+No loop body or append is needed; the comprehension builds the whole list in one line.

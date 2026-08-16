@@ -1,0 +1,3 @@
+Unpack with three names on the left: code, title, price = plan.
+Trying to assign to plan[2] raises a TypeError because tuples are immutable.
+To change a value, build a new tuple from the unpacked pieces and the new price.
