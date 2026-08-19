@@ -8,7 +8,7 @@ This repository holds the code and notebooks for the Python portion of the MSBA 
 
 Each day pairs lecture notebooks (live coding in class) with an assignment notebook you complete on your own. Lecture notebooks contain stub cells that we fill in together; if you miss a step or get stuck later, most exercises have a hint you can reveal.
 
-**Using hints:** notebooks with hints have a small loader cell near the top. Run it, then uncomment the `disp(...)` line under any exercise to display a nudge in the right direction. Hints live in the `hints/` folder, so open the notebooks from the repository root for them to load.
+**Using hints:** notebooks with hints have a small loader cell near the top. Run it, then uncomment the `disp(...)` line under any exercise to display a nudge in the right direction. Hints are fetched from the `hints/` folder of this repository over the internet, so they work the same whether you run the notebook locally or in Colab.
 
 ## Schedule
 
