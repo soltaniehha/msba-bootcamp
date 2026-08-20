@@ -20,6 +20,8 @@ Each day pairs lecture notebooks (live coding in class) with an assignment noteb
 | Day 3 | `Day03-1` to `Day03-3` | Loops, functions, and basic algorithms |
 | Day 4 | `Day04-1` to `Day04-3` | Object-oriented programming, Python scripts and modular development, error handling |
 
+Day 4 reference: [Python Classes, Objects, and Methods](python_classes_objects_methods.pdf)
+
 ## Getting Started
 
 1. Clone or download this repository
