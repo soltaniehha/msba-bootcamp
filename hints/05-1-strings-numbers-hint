@@ -1,0 +1,4 @@
+input() returns a string, so quantity * 2 repeats the text ("3" * 2 is "33") instead of doubling the number.
+Wrap it with int(quantity) before multiplying.
+"7" == 7 is False because a string is never equal to an int; int("7") == 7 is True.
+"7" + 3 raises a TypeError because Python will not add a string and a number; use "7" + str(3) for text or int("7") + 3 for math.

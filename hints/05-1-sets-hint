@@ -1,0 +1,3 @@
+Turn the list into a set with set(signups); duplicates disappear on the way in.
+len(unique_customers) counts the unique names.
+"Cara" in unique_customers answers the membership question with True or False.

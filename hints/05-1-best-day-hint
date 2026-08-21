@@ -1,0 +1,3 @@
+Start with best = sales[0].
+Inside the loop, if s > best: means you found a new best, so store it with best = s.
+Print best after the loop ends.

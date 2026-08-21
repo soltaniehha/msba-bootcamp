@@ -1,0 +1,4 @@
+In __init__, store the inputs with self.name = name and self.city = city.
+In slogan, use self.name and self.city inside an f-string.
+Create the object with FoodTruck("Byte Bites", "Boston") and call truck.slogan() with parentheses.
+Attributes are read without parentheses: truck.city.

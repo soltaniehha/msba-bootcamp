@@ -1,0 +1,3 @@
+Put total += float(r) inside the try block.
+When float() meets "oops" it raises a ValueError, so except ValueError: is the one to catch.
+Inside the except block, print a message that includes r so you can see what was skipped.

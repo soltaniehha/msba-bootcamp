@@ -1,0 +1,2 @@
+Define it with def price_with_tax(amount, rate=0.0625): and return round(amount * (1 + rate), 2).
+Calling price_with_tax(8.00) uses the default rate; passing rate=0.07 overrides it.

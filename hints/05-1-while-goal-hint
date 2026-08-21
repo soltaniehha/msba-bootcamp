@@ -1,0 +1,3 @@
+Inside the loop, add the current day's sales with total += sales[day], then move forward with day += 1.
+The condition total < 500 is checked before every pass, so the loop stops once the goal is passed.
+If you forget day += 1, total never changes past day 0 and the loop runs forever.

@@ -1,0 +1,3 @@
+Compute total = sum(sales) and average = round(total / len(sales), 2).
+Return both with return total, average, which hands back a tuple.
+On the calling side, total, average = sales_summary(sales) unpacks it into two names.

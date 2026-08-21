@@ -1,0 +1,3 @@
+Add the two lookups: order_total = menu["Data Dog"] + menu["Java Chip Shake"].
+Use if order_total > 10: to apply the discount by multiplying by 0.90, with an else that keeps the total unchanged.
+Print with an f-string and round(final_total, 2).

@@ -1,0 +1,3 @@
+The %%writefile cell already created truck_tools.py; just run it.
+Then from truck_tools import clean_item brings the function in, and clean_item("  data dog  ") returns "Data Dog".
+The other style is import truck_tools, which makes you call it as truck_tools.clean_item(...).

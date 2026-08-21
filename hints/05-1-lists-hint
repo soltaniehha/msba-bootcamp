@@ -1,0 +1,4 @@
+Indexes start at 0, and negative indexes count from the end, so sales[-1] is Friday.
+A slice like sales[1:4] includes indexes 1, 2, and 3 but stops before 4.
+sales[-2:] means from the second-to-last item to the end.
+Add Saturday with sales.append(310), then use len(sales), sum(sales), min(sales), max(sales).

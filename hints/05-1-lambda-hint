@@ -1,0 +1,3 @@
+The pattern is name = lambda inputs: expression.
+Here: add_tip = lambda amount: round(amount * 1.18, 2).
+Call it like any other function: add_tip(10).

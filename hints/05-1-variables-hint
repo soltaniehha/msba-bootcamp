@@ -1,0 +1,3 @@
+Create each variable with =, e.g. truck_name = "Byte Bites".
+An f-string starts with f before the quote: f"{truck_name} is open! Today's special: {special} for ${price}".
+type(price) tells you it is a float; type(is_open) is a bool.

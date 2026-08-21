@@ -1,0 +1,3 @@
+Compute the average first: average = sum(sales) / len(sales).
+Then loop with a counter, adding 1 whenever s > average.
+Return the counter after the loop ends, not inside it.

@@ -1,0 +1,3 @@
+Look up a value with menu["Query Fries"].
+Adding a new key looks just like updating one: menu["Binary Burrito"] = 8.95.
+To raise a price in place, use menu["Data Dog"] += 0.50.
