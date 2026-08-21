@@ -2,7 +2,7 @@
 
 **Instructor: Mohammad Soltaniehha**
 
-This repository holds the code and notebooks for the Python portion of the MSBA bootcamp: a four-day, hands-on introduction to programming for incoming business analytics students. No prior coding experience is assumed. By the end of Day 4 you will have written scripts, built functions and classes, and handled errors.
+This repository holds the code and notebooks for the Python portion of the MSBA bootcamp: a five-day, hands-on introduction to programming for incoming business analytics students. No prior coding experience is assumed. By the end of Day 5 you will have written scripts, built functions and classes, handled errors, worked at the command line, and pushed your work to GitHub.
 
 ## How the Course Works
 
@@ -19,8 +19,11 @@ Each day pairs lecture notebooks (live coding in class) with an assignment noteb
 | Day 2 | `Day02-1` to `Day02-4` | Python syntax and semantics, variables, data types, operators, strings, lists, dictionaries, sets |
 | Day 3 | `Day03-1` to `Day03-3` | Loops, functions, and basic algorithms |
 | Day 4 | `Day04-1` to `Day04-3` | Object-oriented programming, Python scripts and modular development, error handling |
+| Day 5 | `Day05-1` | Python review and practice, command line basics, version control with Git and GitHub |
 
 Day 4 reference: [Python Classes, Objects, and Methods](python_classes_objects_methods.pdf)
+
+Day 5 references: [Command Line Basics](Day05-2-Command-Line-Basics.pdf) and [Git & GitHub Basics](Day05-3-Git-GitHub-Basics.pdf)
 
 ## Getting Started
 
